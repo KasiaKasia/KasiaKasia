@@ -62,7 +62,7 @@
 		<td width="50%" valign="top">
 			<h3 align="center">STI24</h3>
 			<p><strong>The STI24 system provides support for PSO, PPE, IKE, IKZE, PPK products. </strong></p>
-		 <a href="https://photos.google.com/album/AF1QipPGfO8QU4GrzA5KjEMCKYGUXojIjSgATAlooo_x/photo/AF1QipP0PfrUXPdB9r_nNTtiYkoU-uQlfeEAAhyK2Y2e" target="_blank" rel="noreferrer">
+		 <a href="https://photos.google.com/share/AF1QipOe6yhWmF4pWUz4KoGGdxUqIGcKWSgZB7CFTZroK_8dS6okvdkRYc5JAParpgMQxQ/photo/AF1QipN9MtS0-UbNEFKFXY7YNVxk-qMehj7pIjW5L33V?key=VHRHRnU0anZiWk9Ca2F6c0xuVEVGaTZCeG1CU29B" target="_blank" rel="noreferrer">
 		 <img src="./images/STI24/sti24-portfel.png" width="100%" height="200"  alt="STI24"/>
 		 </a>
 		 <p><strong>The STI24 system provides support for PSO, PPE, IKE, IKZE, PPK products. </strong></p>
