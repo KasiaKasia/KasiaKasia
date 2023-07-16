@@ -1,0 +1,108 @@
+   
+<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">  
+
+<h3 align="left">Frameworks:</h3>
+<p align="left"> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+	<img src="./images/logo/angular.svg" alt="Angular" width="40" height="40"/> 
+</a>  
+<a href="https://ngrx.io" target="_blank" rel="noreferrer"> 
+	<img src="./images/logo/ngrx.svg" alt="NgRx" width="40" height="40"/> 
+</a>
+
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+	<img src="./images/logo/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> 
+</a>
+
+<h3 align="left">Library:</h3>   
+<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> 
+	<img src="./images/logo/rxjs.svg" alt="RxJS" width="40" height="40"/> 
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+	<img src="./images/logo/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+</a>
+<a href="https://www.ag-grid.com/" target="_blank" rel="noreferrer"> 
+	<img src="./images/logo/ag-grid-logo.png" alt="AG Grid" width="100" height="40"/>
+</a>
+
+
+<h3 align="left">Languages:</h3>  
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="./images/logo/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="./images/logo/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
+ 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="./images/logo/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
+  
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="./images/logo/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/pl-pl/training/paths/program-transact-sql/" target="_blank" rel="noreferrer"> 
+<img src="./images/logo/microsoft-sql-server-logo-svgrepo-com.svg" alt="T-SQL" width="40" height="40"/></a>
+ 
+<h3 align="left">Tools:</h3>  
+ 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="./images/logo/figma-logo.png" alt="Figma" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="./images/logo/Jira_Logo.svg" alt="JIRA" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="./images/logo/Visual_Studio_Code.png" alt = "Visual Studio Code" width="40" height="40"></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="./images/logo/git-scm-icon.svg" alt="GIT" width="40" height="40"></a>
+</p>
+ 
+<hr>
+<h1 align="center">Projects</h1> 
+<table>
+	<tr> 
+		<td width="50%" valign="top">
+			<h3 align="center">STI24</h3>
+			<p><strong>The STI24 system provides support for PSO, PPE, IKE, IKZE, PPK products. </strong></p>
+		 <a href="https://photos.google.com/album/AF1QipPGfO8QU4GrzA5KjEMCKYGUXojIjSgATAlooo_x/photo/AF1QipP0PfrUXPdB9r_nNTtiYkoU-uQlfeEAAhyK2Y2e" target="_blank" rel="noreferrer">
+		 <img src="./images/STI24/sti24-portfel.png" width="100%" height="200"  alt="STI24"/>
+		 </a>
+		 <p><strong>The STI24 system provides support for PSO, PPE, IKE, IKZE, PPK products. </strong></p>
+		 <p align="left">
+		 <strong> Technologies used </strong>
+		 <br/>
+		 <a href="https://angular.io" target="_blank" rel="noreferrer">
+		 <img src="./images/logo/angular.svg" alt="Angular" width="40" height="40"/>
+		 </a>
+		 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./images/logo/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+		 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./images/logo/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+		 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="./images/logo/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+		 <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"><img src="./images/logo/rxjs.svg" alt="RxJS" width="40" height="40"/></a>
+		 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="./images/logo/laravel.svg" alt="Laravel" width="40" height="40"/></a>
+		 <a href="https://learn.microsoft.com/pl-pl/training/paths/program-transact-sql/" target="_blank" rel="noreferrer"><img src="./images/logo/microsoft-sql-server-logo-svgrepo-com.svg" alt="T-SQL" width="40" height="40"/></a>
+		 </p>
+		</td>
+		<td width="50%" valign="top">
+			<h3 align="center">Administration Panel for the Digital Frontier system</h3>
+		<p><strong>Provides administration of the Digital Frontier system. 
+		 The main functions are the administration of users, 
+		 permissions,cards, tasks, etc.</strong></p>
+		 <a href="https://photos.google.com/share/AF1QipOGduk6zKNQCrVEN-WvtGkOaokt1zc61erpeYf7wUtpBUAo9dad3bi1bbWH4FeL0A/photo/AF1QipPmflskEyAAQIEIypDB09Vhe_nbsuu0Shr887eO?key=cDh1bXZzTmVCcWdYTFM1YTVDSjZsRVlRVjRESlhn" target="_blank" rel="noreferrer">
+		 <img src="./images/Panel-Administracyjny/karta-uprawnien.png" width="100%" height="200" alt="Panel Administracyjny"/>
+		 </a>
+		 <p align="left">
+		 <strong> Technologies used </strong>
+		 <br/>
+		 <a href="https://angular.io" target="_blank" rel="noreferrer">
+		 <img src="./images/logo/angular.svg" alt="Angular" width="40" height="40"/>
+		 </a>
+		 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="./images/logo/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+		 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="./images/logo/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+		 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./images/logo/bootstrap-plain-wordmark.svg" alt="bootstrap 5" width="40" height="40"/> </a>
+		 <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"><img src="./images/logo/rxjs.svg" alt="RxJS" width="40" height="40"/></a>
+		 <a href="https://www.ag-grid.com/" target="_blank" rel="noreferrer"><img src="./images/logo/ag-grid-logo.png" alt="AG Grid" width="100" height="40"/></a>
+		</p> 
+		</td>		
+	</tr>
+</table>
+  
+ 
+![](https://komarev.com/ghpvc/?username=KasiaKasia&style=for-the-badge)
