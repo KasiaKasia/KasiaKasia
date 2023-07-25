@@ -101,6 +101,25 @@
 		</p> 
 		</td>		
 	</tr>
+	<tr>
+		<td width="50%" valign="top">
+		<h3 align="center">Goniec OnLine light</h3>
+		<p><strong>Goniec OnLine light is an application that enables customer service by the distributor. The application has functions for selling products, including such as IKE, IKZE, PSO.</strong></p>
+		<img src="./images/Goniec-OnLine-light/GoniecOnLineLight.png" width="100%" height="200"  alt="GoniecOnLineLight"/>
+		<p align="left">
+		<strong> Technologies used </strong>
+		<br/>
+		<a href="https://angular.io" target="_blank" rel="noreferrer">
+		<img src="./images/logo/angular.svg" alt="Angular" width="40" height="40"/>
+		</a>
+		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./images/logo/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./images/logo/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+		<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"><img src="./images/logo/rxjs.svg" alt="RxJS" width="40" height="40"/></a>
+		<a href="https://material.angular.io/" target="_blank" rel="noreferrer"><img src="./images/logo/angular-material.svg" alt="Angular Material" width="40" height="40"/></a>
+		<a href="https://learn.microsoft.com/pl-pl/training/paths/program-transact-sql/" target="_blank" rel="noreferrer"><img src="./images/logo/microsoft-sql-server-logo-svgrepo-com.svg" alt="T-SQL" width="40" height="40"/></a>
+		</p>
+		</td>
+	</tr>
 </table>
   
  
