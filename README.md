@@ -22,6 +22,9 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 	<img src="./images/logo/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
+<a href="https://material.angular.io/" target="_blank" rel="noreferrer">
+	<img src="./images/logo/angular-material.svg" alt="Angular Material" width="40" height="40"/>
+</a>
 <a href="https://www.ag-grid.com/" target="_blank" rel="noreferrer"> 
 	<img src="./images/logo/ag-grid-logo.png" alt="AG Grid" width="100" height="40"/>
 </a>
@@ -102,7 +105,7 @@
 		</td>		
 	</tr>
 	<tr>
-		<td width="50%" valign="top">
+		<td width="50%" valign="top" style="background-color: white;">
 		<h3 align="center">Goniec OnLine light</h3>
 		<p><strong>Goniec OnLine light is an application that enables customer service by the distributor. The application has functions for selling products, including such as IKE, IKZE, PSO.</strong></p>
 		<img src="./images/Goniec-OnLine-light/GoniecOnLineLight.png" width="100%" height="200"  alt="GoniecOnLineLight"/>
