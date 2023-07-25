@@ -56,7 +56,7 @@
 </p>
  
 <hr>
-<h1 align="center">Projects</h1> 
+<h1 align="center">Commercial projects</h1> 
 <table>
 	<tr> 
 		<td width="50%" valign="top">
