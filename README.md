@@ -1,16 +1,4 @@
 <style>
-@-webkit-keyframes stars-pulse {
-0%, 100% {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-        opacity: 1;
-    }
-    80% {
-        -webkit-transform: scale(0);
-        transform: scale(0);
-        opacity: 0;
-    }
-}
 @keyframes stars-pulse {
     0%,
     100% {
@@ -25,29 +13,23 @@
     }
 }
 .loader-9 .star1 {
-    -webkit-animation: stars-pulse 1s ease-in-out infinite;
     animation: stars-pulse 1s ease-in-out infinite;
     left: 0;
 }
-
 .loader-9 .star2 {
-    -webkit-animation: stars-pulse 1s 0.2s ease-in-out infinite;
     animation: stars-pulse 1s 0.2s ease-in-out infinite;
     left: 25px;
 }
 
 .loader-9 .star3 {
-    -webkit-animation: stars-pulse 1s 0.4s ease-in-out infinite;
     animation: stars-pulse 1s 0.4s ease-in-out infinite;
     left: 50px;
 }
 .loader-9 .star4 {
-    -webkit-animation: stars-pulse 1s 0.6s ease-in-out infinite;
     animation: stars-pulse 1s 0.6s ease-in-out infinite;
     left: 75px;
 }
 .loader-9 .star5 {
-    -webkit-animation: stars-pulse 1s 0.8s ease-in-out infinite;
     animation: stars-pulse 1s 0.8s ease-in-out infinite;
     left: 100px;
 }
