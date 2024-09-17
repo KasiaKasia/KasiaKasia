@@ -2,34 +2,37 @@
 
 | Frameworks               |                          |
 |--------------------------|--------------------------| 
-| Angular v18              | ⭐ ⭐ ⭐ ⭐ ⭐                |
-| NgRx                     | ⭐ ⭐ ⭐                    |
+| Angular v18              | ⭐⭐⭐⭐⭐                    |
+| NgRx                     | ⭐⭐⭐                      |
 | NestJS                   | ⭐                        | 
 
 
-|Library                   |                          |
+| Library                  |                          |
 |--------------------------|--------------------------| 
-| RxJS                     | ⭐ ⭐ ⭐ ⭐ ⭐                |
-| Bootstrap                | ⭐ ⭐ ⭐ ⭐ ⭐                | 
-| Angular Material         | ⭐ ⭐ ⭐ ⭐                  | 
-| AG Grid                  | ⭐ ⭐ ⭐ ⭐                  | 
-| PrimeNG                  | ⭐ ⭐ ⭐ ⭐                  | 
-| Tailwind CSS             | ⭐ ⭐ ⭐                    | 
-| SignalR                  | ⭐ ⭐ ⭐                    | 
-| StoryBook                | ⭐ ⭐ ⭐                    |
-
-|Languages                 |	           	          |
-|--------------------------|--------------------------| 
-|  HTML 5                  | ⭐ ⭐ ⭐ ⭐ ⭐                |
-| CSS3                     | ⭐ ⭐ ⭐                    |
-| JavaScript               | ⭐ ⭐ ⭐ ⭐                  |
-| TypeScript               | ⭐ ⭐ ⭐ ⭐                  |
-| T-SQL                    | ⭐ ⭐ ⭐                    |
+| RxJS                     | ⭐⭐⭐⭐⭐                    |
+| Bootstrap                | ⭐⭐⭐⭐⭐                    | 
+| Angular Material         | ⭐⭐⭐⭐                     |
+| AG Grid                  | ⭐⭐⭐⭐                     |
+| PrimeNG                  | ⭐⭐⭐⭐                     |
+| Tailwind CSS             | ⭐⭐⭐                      |
+| SignalR                  | ⭐⭐⭐                      |
+| StoryBook                | ⭐⭐⭐                      |
 
 
-|AI and Machine Learning   |		                  |
+| Languages                |                          |
 |--------------------------|--------------------------| 
-|  Cloud Vision API        | ⭐ ⭐ ⭐                    |
+| HTML 5                   | ⭐⭐⭐⭐⭐                    |
+| CSS3                     | ⭐⭐⭐                      |
+| JavaScript               | ⭐⭐⭐⭐                     |
+| TypeScript               | ⭐⭐⭐⭐                     |
+| T-SQL                    | ⭐⭐⭐                      |
+
+
+| AI and Machine Learning  |                          |
+|--------------------------|--------------------------| 
+| Cloud Vision API         | ⭐⭐⭐                      |
+
+
  
  
 <!--
