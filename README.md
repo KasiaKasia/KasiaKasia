@@ -1,55 +1,37 @@
 <style>
 @keyframes stars-pulse {
-    0%,
-    100% {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-        opacity: 1;
-    }
-    80% {
-        -webkit-transform: scale(0);
-        transform: scale(0);
-        opacity: 0;
-    }
+0%, 100% {
+transform: scale(1);
+opacity: 1;
 }
-.loader-9 .star1 {
+80% {
+transform: scale(0);
+opacity: 0;
+} } .loader-9 .star1 {
     animation: stars-pulse 1s ease-in-out infinite;
     left: 0;
-}
-.loader-9 .star2 {
+} .loader-9 .star2 {
     animation: stars-pulse 1s 0.2s ease-in-out infinite;
     left: 25px;
-}
-
-.loader-9 .star3 {
+} .loader-9 .star3 {
     animation: stars-pulse 1s 0.4s ease-in-out infinite;
     left: 50px;
-}
-.loader-9 .star4 {
+} .loader-9 .star4 {
     animation: stars-pulse 1s 0.6s ease-in-out infinite;
     left: 75px;
-}
-.loader-9 .star5 {
+} .loader-9 .star5 {
     animation: stars-pulse 1s 0.8s ease-in-out infinite;
     left: 100px;
-}
-.container {
+} .container {
     text-align: center;
-}
-section {
+} section {
     width: 30%;
     display: inline-block;
     text-align: center;
     min-height: 215px;
     vertical-align: top;
     margin: 1%;
-}
-@media only screen and (max-width: 600px) {
-    section {
-        min-width: 350px;
-    }
-}
-.loader {
+} .loader {
     position: relative;
     width: 60px;
     height: 60px;
