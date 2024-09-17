@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="./images/logo/tlo.jfif">
+<img align="right" alt="Coding" width="500" src="./images/logo/tlo.jfif">
 
 | Frameworks               |                          |
 |--------------------------|--------------------------| 
