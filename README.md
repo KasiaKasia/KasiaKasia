@@ -1,25 +1,38 @@
+<img align="right" alt="Coding" width="400" src="./images/logo/tlo.jfif">
+
+| Frameworks       |                   |
+|--------------------------|--------------------------| 
+| Angular v18      | ⭐ ⭐ ⭐ ⭐ ⭐ |
+| NgRx             | ⭐ ⭐ ⭐        |
+| NestJS           | ⭐               | 
 
 
+|Library           |                  |
+|--------------------------|--------------------------| 
+| RxJS             | ⭐ ⭐ ⭐ ⭐ ⭐ |
+| Bootstrap        | ⭐ ⭐ ⭐ ⭐ ⭐ | 
+| Angular Material | ⭐ ⭐ ⭐ ⭐    | 
+| AG Grid          | ⭐ ⭐ ⭐ ⭐     | 
+| PrimeNG          | ⭐ ⭐ ⭐ ⭐     | 
+| Tailwind CSS     | ⭐ ⭐ ⭐        | 
+| SignalR          | ⭐ ⭐ ⭐        | 
+| StoryBook        | ⭐ ⭐ ⭐        |
+
+|Languages|			|
+| :--- |     :---      |
+|  HTML 5   | ⭐ ⭐ ⭐ ⭐ ⭐ |
+| CSS3     | ⭐ ⭐ ⭐        |
+| JavaScript     | ⭐ ⭐ ⭐ ⭐       |
+| TypeScript     | ⭐ ⭐ ⭐ ⭐   |
+| T-SQL | ⭐ ⭐ ⭐      |
+
+
+|AI and Machine Learning |			|
+| :--- |     :---      |
+|  Cloud Vision API   | ⭐ ⭐ ⭐  |
  
-
-|Frameworks|
-| :---         |     :---      |     
-| Angular v18   | ⭐ ⭐ ⭐ ⭐ ⭐ |
-| NgRx     | ⭐ ⭐ ⭐       | 
-| NestJS     | ⭐       | 
-
-
-|Library|
-| :---         |     :---      |
-| RxJS   | ⭐ ⭐ ⭐ ⭐ ⭐ |
-| Bootstrap     | ⭐ ⭐ ⭐ ⭐ ⭐       | 
-| Angular Material     | ⭐ ⭐ ⭐ ⭐       | 
-| AG Grid     | ⭐ ⭐ ⭐ ⭐  <span style="font-size: 50px; color: transparent; text-shadow: 0 0 0 gold; display: inline-block; margin: 5px;">★</span> | 
-| PrimeNG     | ⭐ ⭐ ⭐ ⭐      | 
-| Tailwind CSS     | ⭐ ⭐ ⭐ ⭐    | 
-	
-<img align="right" alt="Coding" width="400" src="./images/logo/tlo.jfif">  
-
+ 
+<!--
 <h3 align="left">Frameworks:</h3>
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -72,7 +85,7 @@
 <a href="https://learn.microsoft.com/pl-pl/training/paths/program-transact-sql/" target="_blank" rel="noreferrer"> 
 <img src="./images/logo/microsoft-sql-server-logo-svgrepo-com.svg" alt="T-SQL" width="40" height="40"/></a>
 
-<!--
+
 <h3 align="left">Tools:</h3>  
  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -83,12 +96,14 @@
 <img src="./images/logo/Visual_Studio_Code.png" alt = "Visual Studio Code" width="40" height="40"></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="./images/logo/git-scm-icon.svg" alt="GIT" width="40" height="40"></a>
--->
-</p>
+
+
 <h3 align="left">AI and Machine Learning:</h3>
 <a href="https://cloud.google.com/vision/docs" target="_blank" rel="noreferrer">
 <img src="./images/logo/Cloud-Vision-API.png" alt="Cloud Vision API" width="100" height="70"/></a>
- 
+
+</p> --> 
+
 <hr>
 <h1 align="center">Commercial projects</h1> 
 <table>
