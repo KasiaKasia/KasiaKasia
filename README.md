@@ -29,11 +29,11 @@
 <a href="https://www.ag-grid.com/" target="_blank" rel="noreferrer"> 
 	<img src="./images/logo/ag-grid-logo.png" alt="AG Grid" width="100" height="40"/>
 </a>
-<a href="https://primeng.org/" target="_blank" rel="noreferrer"> 
-	<img src="./images/logo/primeng-logo.png" alt="PrimeNG" width="100" height="40"/>
+<a href="https://primeng.org/" target="_blank" rel="noreferrer">
+<img src="./images/logo/primeng-logo.png" alt="PrimeNG" width="100" height="40"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-	<img src="./images/logo/tailwind-css-logo.svg" alt="Tailwind CSS" width="100" height="40"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="./images/logo/Tailwind-css-logo.png" alt="Tailwind CSS" width="100" height="40"/>
 </a>
 
 <h3 align="left">Languages:</h3>  
@@ -68,7 +68,7 @@
  
 <h3 align="left">AI and Machine Learning:</h3>
 <a href="https://cloud.google.com/vision/docs" target="_blank" rel="noreferrer">
-<img src="./images/logo/Cloud-Vision-API.png" alt="Cloud Vision API" width="40" height="40"/></a>
+<img src="./images/logo/Cloud-Vision-API.png" alt="Cloud Vision API" width="100" height="70"/></a>
  
 <hr>
 <h1 align="center">Commercial projects</h1> 
