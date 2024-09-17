@@ -4,33 +4,35 @@
 <p align="left">
 <section>
     <div class="loader loader-9">
-        <svg class="loader-star star1" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	<svg class="loader-star star1" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
             viewBox="0 0 23.172 23.346" xml:space="preserve">
             <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9" />
-        </svg>
-        <svg class="loader-star star2" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	</svg>
+	<svg class="loader-star star2" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
             viewBox="0 0 23.172 23.346" xml:space="preserve">
             <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
-        </svg>
-        <svg class="loader-star star3" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    </svg>
+    <svg class="loader-star star3" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
             viewBox="0 0 23.172 23.346" xml:space="preserve">
             <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
-        </svg>
-        <svg class="loader-star star4" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    </svg>
+    <svg class="loader-star star4" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
             viewBox="0 0 23.172 23.346" xml:space="preserve">
             <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
-        </svg>
-        <svg class="loader-star star5" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    </svg>
+    <svg class="loader-star star5" version="1.1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
             viewBox="0 0 23.172 23.346" xml:space="preserve">
             <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
         </svg>
     </div>
 </section>
+ </p>	
+<p align="left">
 Angular v18
  </p>	 
 	
@@ -54,6 +56,8 @@ Angular v18
         </svg>
     </div>
 </section>
+</p>
+<p align="left">
 NgRx
  </p>
 
@@ -67,7 +71,8 @@ NgRx
         </svg>
         
     </div>
-</section>
+</section></p>
+<p align="left"> 
 NestJS
  </p>
 
