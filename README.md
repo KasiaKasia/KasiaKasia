@@ -1,10 +1,18 @@
-
+<style>
+@keyframes stars-pulse { 0%, 100% { transform: scale(1); opacity: 1; } 80% { transform: scale(0); opacity: 0; }}
+.loader-9 .star1 { animation: stars-pulse 1s ease-in-out infinite; left: 0; }
+.loader-9 .star2 { animation: stars-pulse 1s 0.2s ease-in-out infinite; left: 25px; }
+.container {text-align: center;} 
+section { width: 30%; display: inline-block; text-align: center; min-height: 215px; vertical-align: top; margin: 1%; }
+.loader { position: relative; width: 60px; height: 60px; border-radius: 50%; margin: 75px; display: inline-block;  vertical-align: middle; } .loader-star { position: absolute; top: calc(50% - 12px); }
+</style>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <div class="loader loader-9">
-<svg class="loader-star star1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px" viewBox="0 0 23.172 23.346" xml:space="preserve">
-<polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9" />
-</svg></div>
+<i class="fas fa-star loader-star star1" style="color: #e6f51b;"></i> <!-- pełna gwiazda -->
+<i class="fas fa-star loader-star star2" style="color: #e6f51b;"></i> <!-- pusta gwiazda -->
+</div>
 </p><p align="left">NestJS</p>
 
 
