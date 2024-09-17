@@ -1,5 +1,5 @@
    
-<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">  
+<img align="right" alt="Coding" width="400" src="./images/logo/tlo.jfif">  
 
 <h3 align="left">Frameworks:</h3>
 <p align="left"> 
@@ -52,7 +52,8 @@
 
 <a href="https://learn.microsoft.com/pl-pl/training/paths/program-transact-sql/" target="_blank" rel="noreferrer"> 
 <img src="./images/logo/microsoft-sql-server-logo-svgrepo-com.svg" alt="T-SQL" width="40" height="40"/></a>
- 
+
+<!--
 <h3 align="left">Tools:</h3>  
  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -64,7 +65,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="./images/logo/git-scm-icon.svg" alt="GIT" width="40" height="40"></a>
 </p>
- 
+-->
  
 <h3 align="left">AI and Machine Learning:</h3>
 <a href="https://cloud.google.com/vision/docs" target="_blank" rel="noreferrer">
