@@ -1,10 +1,22 @@
-![Star Icon](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/star.svg)
-
-![Filled Star Icon](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/star.svg)
 
 
+ 
+
+|Frameworks|
+| :---         |     :---      |     
+| Angular v18   | ⭐ ⭐ ⭐ ⭐ ⭐ |
+| NgRx     | ⭐ ⭐ ⭐       | 
+| NestJS     | ⭐       | 
 
 
+|Library|
+| :---         |     :---      |
+| RxJS   | ⭐ ⭐ ⭐ ⭐ ⭐ |
+| Bootstrap     | ⭐ ⭐ ⭐ ⭐ ⭐       | 
+| Angular Material     | ⭐ ⭐ ⭐ ⭐       | 
+| AG Grid     | ⭐ ⭐ ⭐ ⭐  <span style="font-size: 50px; color: transparent; text-shadow: 0 0 0 gold; display: inline-block; margin: 5px;">★</span> | 
+| PrimeNG     | ⭐ ⭐ ⭐ ⭐      | 
+| Tailwind CSS     | ⭐ ⭐ ⭐ ⭐    | 
 	
 <img align="right" alt="Coding" width="400" src="./images/logo/tlo.jfif">  
 
