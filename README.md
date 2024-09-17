@@ -14,6 +14,7 @@
 	<img src="./images/logo/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> 
 </a>
 
+
 <h3 align="left">Library:</h3>   
 <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> 
 	<img src="./images/logo/rxjs.svg" alt="RxJS" width="40" height="40"/> 
@@ -28,7 +29,12 @@
 <a href="https://www.ag-grid.com/" target="_blank" rel="noreferrer"> 
 	<img src="./images/logo/ag-grid-logo.png" alt="AG Grid" width="100" height="40"/>
 </a>
-
+<a href="https://primeng.org/" target="_blank" rel="noreferrer"> 
+	<img src="./images/logo/primeng-logo.png" alt="PrimeNG" width="100" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+	<img src="./images/logo/tailwind-css-logo.svg" alt="Tailwind CSS" width="100" height="40"/>
+</a>
 
 <h3 align="left">Languages:</h3>  
 
@@ -43,6 +49,7 @@
   
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="./images/logo/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+
 <a href="https://learn.microsoft.com/pl-pl/training/paths/program-transact-sql/" target="_blank" rel="noreferrer"> 
 <img src="./images/logo/microsoft-sql-server-logo-svgrepo-com.svg" alt="T-SQL" width="40" height="40"/></a>
  
@@ -57,6 +64,11 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="./images/logo/git-scm-icon.svg" alt="GIT" width="40" height="40"></a>
 </p>
+ 
+ 
+<h3 align="left">AI and Machine Learning:</h3>
+<a href="https://cloud.google.com/vision/docs" target="_blank" rel="noreferrer">
+<img src="./images/logo/Cloud-Vision-API.png" alt="Cloud Vision API" width="40" height="40"/></a>
  
 <hr>
 <h1 align="center">Commercial projects</h1> 
