@@ -1,4 +1,169 @@
-   
+     <style>
+	 @-webkit-keyframes stars-pulse {
+    0%,
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        opacity: 1;
+    }
+    80% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+        opacity: 0;
+    }
+}
+
+@keyframes stars-pulse {
+    0%,
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        opacity: 1;
+    }
+    80% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+        opacity: 0;
+    }
+}
+.loader-9 .star1 {
+    -webkit-animation: stars-pulse 1s ease-in-out infinite;
+    animation: stars-pulse 1s ease-in-out infinite;
+    left: 0;
+}
+
+.loader-9 .star2 {
+    -webkit-animation: stars-pulse 1s 0.2s ease-in-out infinite;
+    animation: stars-pulse 1s 0.2s ease-in-out infinite;
+    left: 25px;
+}
+
+.loader-9 .star3 {
+    -webkit-animation: stars-pulse 1s 0.4s ease-in-out infinite;
+    animation: stars-pulse 1s 0.4s ease-in-out infinite;
+    left: 50px;
+}
+.loader-9 .star4 {
+    -webkit-animation: stars-pulse 1s 0.6s ease-in-out infinite;
+    animation: stars-pulse 1s 0.6s ease-in-out infinite;
+    left: 75px;
+}
+.loader-9 .star5 {
+    -webkit-animation: stars-pulse 1s 0.8s ease-in-out infinite;
+    animation: stars-pulse 1s 0.8s ease-in-out infinite;
+    left: 100px;
+}
+
+.container {
+    text-align: center;
+}
+
+section {
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    min-height: 215px;
+    vertical-align: top;
+    margin: 1%;
+}
+
+@media only screen and (max-width: 600px) {
+    section {
+        min-width: 350px;
+    }
+}
+
+.loader {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 75px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.loader-star {
+    position: absolute;
+    top: calc(50% - 12px);
+}
+
+	 
+	 </style>
+<h3 align="left">Frameworks:</h3>	 
+	 
+<p align="left">
+<section>
+    <div class="loader loader-9">
+        <svg class="loader-star star1" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9" />
+        </svg>
+        <svg class="loader-star star2" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
+        </svg>
+        <svg class="loader-star star3" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
+        </svg>
+        <svg class="loader-star star4" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
+        </svg>
+        <svg class="loader-star star5" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
+        </svg>
+    </div>
+</section>
+Angular v18
+ </p>	 
+	
+<p align="left"> 
+<section>
+    <div class="loader loader-9">
+        <svg class="loader-star star1" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9" />
+        </svg>
+        <svg class="loader-star star2" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
+        </svg>
+        <svg class="loader-star star3" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9  " />
+        </svg>
+    </div>
+</section>
+NgRx
+ </p>
+
+<p align="left"> 
+<section>
+    <div class="loader loader-9">
+        <svg class="loader-star star1" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23.172px" height="23.346px"
+            viewBox="0 0 23.172 23.346" xml:space="preserve">
+            <polygon fill="#e6f51b" points="11.586,0 8.864,8.9 0,8.9 7.193,14.447 4.471,23.346 11.586,17.84 18.739,23.346 16.77,14.985 23.172,8.9 14.306,8.9" />
+        </svg>
+        
+    </div>
+</section>
+NestJS
+ </p>
+
+
+	
 <img align="right" alt="Coding" width="400" src="./images/logo/tlo.jfif">  
 
 <h3 align="left">Frameworks:</h3>
@@ -64,9 +229,8 @@
 <img src="./images/logo/Visual_Studio_Code.png" alt = "Visual Studio Code" width="40" height="40"></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="./images/logo/git-scm-icon.svg" alt="GIT" width="40" height="40"></a>
-</p>
 -->
- 
+</p>
 <h3 align="left">AI and Machine Learning:</h3>
 <a href="https://cloud.google.com/vision/docs" target="_blank" rel="noreferrer">
 <img src="./images/logo/Cloud-Vision-API.png" alt="Cloud Vision API" width="100" height="70"/></a>
