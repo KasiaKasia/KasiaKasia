@@ -30,7 +30,7 @@
 	<img src="./images/logo/ag-grid-logo.png" alt="AG Grid" width="100" height="40"/>
 </a>
 <a href="https://primeng.org/" target="_blank" rel="noreferrer">
-<img src="./images/logo/primeng-logo.png" alt="PrimeNG" width="100" height="40"/>
+<img src="./images/logo/primeng-logo.png" alt="PrimeNG" width="40" height="40"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="./images/logo/Tailwind-css-logo.png" alt="Tailwind CSS" width="100" height="40"/>
