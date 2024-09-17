@@ -1,35 +1,35 @@
 <img align="right" alt="Coding" width="400" src="./images/logo/tlo.jfif">
 
-| Frameworks       |                   |
+| Frameworks               |                          |
 |--------------------------|--------------------------| 
-| Angular v18      | ⭐ ⭐ ⭐ ⭐ ⭐ |
-| NgRx             | ⭐ ⭐ ⭐        |
-| NestJS           | ⭐               | 
+| Angular v18              | ⭐ ⭐ ⭐ ⭐ ⭐                |
+| NgRx                     | ⭐ ⭐ ⭐                    |
+| NestJS                   | ⭐                        | 
 
 
-|Library           |                  |
+|Library                   |                          |
 |--------------------------|--------------------------| 
-| RxJS             | ⭐ ⭐ ⭐ ⭐ ⭐ |
-| Bootstrap        | ⭐ ⭐ ⭐ ⭐ ⭐ | 
-| Angular Material | ⭐ ⭐ ⭐ ⭐    | 
-| AG Grid          | ⭐ ⭐ ⭐ ⭐     | 
-| PrimeNG          | ⭐ ⭐ ⭐ ⭐     | 
-| Tailwind CSS     | ⭐ ⭐ ⭐        | 
-| SignalR          | ⭐ ⭐ ⭐        | 
-| StoryBook        | ⭐ ⭐ ⭐        |
+| RxJS                     | ⭐ ⭐ ⭐ ⭐ ⭐                |
+| Bootstrap                | ⭐ ⭐ ⭐ ⭐ ⭐                | 
+| Angular Material         | ⭐ ⭐ ⭐ ⭐                  | 
+| AG Grid                  | ⭐ ⭐ ⭐ ⭐                  | 
+| PrimeNG                  | ⭐ ⭐ ⭐ ⭐                  | 
+| Tailwind CSS             | ⭐ ⭐ ⭐                    | 
+| SignalR                  | ⭐ ⭐ ⭐                    | 
+| StoryBook                | ⭐ ⭐ ⭐                    |
 
-|Languages|			|
-| :--- |     :---      |
-|  HTML 5   | ⭐ ⭐ ⭐ ⭐ ⭐ |
-| CSS3     | ⭐ ⭐ ⭐        |
-| JavaScript     | ⭐ ⭐ ⭐ ⭐       |
-| TypeScript     | ⭐ ⭐ ⭐ ⭐   |
-| T-SQL | ⭐ ⭐ ⭐      |
+|Languages                 |	           	          |
+|--------------------------|--------------------------| 
+|  HTML 5                  | ⭐ ⭐ ⭐ ⭐ ⭐                |
+| CSS3                     | ⭐ ⭐ ⭐                    |
+| JavaScript               | ⭐ ⭐ ⭐ ⭐                  |
+| TypeScript               | ⭐ ⭐ ⭐ ⭐                  |
+| T-SQL                    | ⭐ ⭐ ⭐                    |
 
 
-|AI and Machine Learning |			|
-| :--- |     :---      |
-|  Cloud Vision API   | ⭐ ⭐ ⭐  |
+|AI and Machine Learning   |		                  |
+|--------------------------|--------------------------| 
+|  Cloud Vision API        | ⭐ ⭐ ⭐                    |
  
  
 <!--
