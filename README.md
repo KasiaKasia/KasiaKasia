@@ -1,7 +1,6 @@
-     <style>
-	 @-webkit-keyframes stars-pulse {
-    0%,
-    100% {
+<style>
+@-webkit-keyframes stars-pulse {
+0%, 100% {
         -webkit-transform: scale(1);
         transform: scale(1);
         opacity: 1;
@@ -12,7 +11,6 @@
         opacity: 0;
     }
 }
-
 @keyframes stars-pulse {
     0%,
     100% {
@@ -53,11 +51,9 @@
     animation: stars-pulse 1s 0.8s ease-in-out infinite;
     left: 100px;
 }
-
 .container {
     text-align: center;
 }
-
 section {
     width: 30%;
     display: inline-block;
@@ -66,13 +62,11 @@ section {
     vertical-align: top;
     margin: 1%;
 }
-
 @media only screen and (max-width: 600px) {
     section {
         min-width: 350px;
     }
 }
-
 .loader {
     position: relative;
     width: 60px;
@@ -82,14 +76,11 @@ section {
     display: inline-block;
     vertical-align: middle;
 }
-
 .loader-star {
     position: absolute;
     top: calc(50% - 12px);
 }
-
-	 
-	 </style>
+</style>
 <h3 align="left">Frameworks:</h3>	 
 	 
 <p align="left">
