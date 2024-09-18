@@ -1,100 +1,37 @@
-<table align="left">
-  <tr width="100%">
-    <th width="60%"  >Frameworks</th>
-    <th width="40%">Ratings</th>
-  </tr>
-  <tr width="100%">
-    <td width="60%">Angular v18</td>
-    <td width="40%">⭐⭐⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">NgRx</td>
-    <td width="40%">⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">NestJS</td>
-    <td width="40%">⭐</td>
-  </tr> 
-  <tr width="100%">
-    <th width="60%" >Library</th>
-    <th width="40%">Ratings</th>
-  </tr>
-  <tr width="100%">
-    <td width="60%">RxJS</td>
-    <td width="40%">⭐⭐⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">Bootstrap</td>
-    <td width="40%">⭐⭐⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">Angular Material</td>
-    <td width="40%">⭐⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">AG Grid</td>
-    <td width="40%">⭐⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">PrimeNG</td>
-    <td width="40%">⭐⭐⭐⭐</td>
-  </tr>
- <tr width="100%">
-    <td width="60%">Tailwind CSS</td>
-    <td width="40%">⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">SignalR</td>
-    <td width="40%">⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">Leaflet</td>
-    <td width="40%">⭐⭐⭐⭐</td>
-  </tr> 
-  <tr width="100%">
-    <td width="60%">StoryBook</td>
-    <td width="40%">⭐⭐</td>
-  </tr> 
- <tr width="100%">
-    <th width="60%">Languages</th>
-    <th width="40%">Ratings</th>
-  </tr>
-  <tr width="100%">
-    <td width="60%">HTML 5</td>
-    <td width="40%">⭐⭐⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">CSS3</td>
-    <td width="40%">⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">JavaScript</td>
-    <td width="40%">⭐⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">TypeScript</td>
-    <td width="40%">⭐⭐⭐⭐</td>
-  </tr>
-  <tr width="100%">
-    <td width="60%">T-SQL</td>
-    <td width="40%">⭐⭐⭐</td>
-  </tr> 
-  <tr width="100%">
-    <th>AI and Machine Learning</th>
-    <th>Ratings</th>
-  </tr>
-  <tr width="100%">
-    <td width="50%">Cloud Vision API</td>
-    <td width="50%">⭐⭐⭐</td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="60%" src="./images/logo/tlo.jfif">
  
- <img align="right" alt="Coding" width="500" src="./images/logo/tlo.jfif">
+ 
+| Frameworks               | Ratings  |
+|--------------------------|----------|
+| Angular v18              | ⭐⭐⭐⭐⭐    |
+| NgRx                     | ⭐⭐⭐      |
+| NestJS                   | ⭐        |
+| <strong>Library</strong>                  | <strong>Ratings</strong>  |
+| RxJS                     | ⭐⭐⭐⭐⭐    |
+| Bootstrap                | ⭐⭐⭐⭐⭐    |
+| Angular Material         | ⭐⭐⭐⭐     |
+| AG Grid                  | ⭐⭐⭐⭐     |
+| PrimeNG                  | ⭐⭐⭐⭐     |
+| Tailwind CSS             | ⭐⭐⭐      |
+| SignalR                  | ⭐⭐        |
+| Leaflet		   | ⭐⭐⭐⭐   |
+| StoryBook                | ⭐⭐        |
+| <strong>Languages</strong>                | <strong>Ratings</strong>  |
+| HTML 5                 | ⭐⭐⭐⭐⭐    |
+| CSS3                     | ⭐⭐⭐      |
+| JavaScript               | ⭐⭐⭐⭐     |
+| TypeScript               | ⭐⭐⭐⭐     |
+| T-SQL                    | ⭐⭐⭐      |
+| <strong>AI and Machine Learning</strong>  | <strong>Ratings</strong>  |
+| Cloud Vision API         | ⭐⭐⭐      |
+
+
+
  
  
 <br>
 <hr>
-<h1 align="center">Commercial projects</h1> 
+<h1 align="center" width="100%" >Commercial projects</h1> 
 <table>
 	<tr> 
 		<td width="50%" valign="top">
