@@ -1,8 +1,8 @@
 <img align="right" alt="Coding" width="60%" src="./images/logo/tlo.jfif">
  
  
-| Frameworks               | Ratings  |
-|--------------------------|----------|
+| <strong>Frameworks</strong>               | <strong>Ratings</strong>  |
+| :---         |     :---      |
 | Angular v18              | ⭐⭐⭐⭐⭐    |
 | NgRx                     | ⭐⭐⭐      |
 | NestJS                   | ⭐        |
