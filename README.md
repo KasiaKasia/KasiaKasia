@@ -1,38 +1,99 @@
-<img align="right" alt="Coding" width="500" src="./images/logo/tlo.jfif">
-
-| Frameworks               | Ratings  |
-|--------------------------|----------|
-| Angular v18              | ⭐⭐⭐⭐⭐    |
-| NgRx                     | ⭐⭐⭐      |
-| NestJS                   | ⭐        |
+<img align="right" alt="Coding" width="540" src="./images/logo/tlo.jfif">
 
 
-| Library                  | Ratings  |
-|--------------------------|----------|
-| RxJS                     | ⭐⭐⭐⭐⭐    |
-| Bootstrap                | ⭐⭐⭐⭐⭐    |
-| Angular Material         | ⭐⭐⭐⭐     |
-| AG Grid                  | ⭐⭐⭐⭐     |
-| PrimeNG                  | ⭐⭐⭐⭐     |
-| Tailwind CSS             | ⭐⭐⭐      |
-| SignalR                  | ⭐⭐⭐      |
-| StoryBook                | ⭐⭐⭐      |
 
-
-| Languages                | Ratings  |
-|--------------------------|----------|
-| HTML 5                   | ⭐⭐⭐⭐⭐    |
-| CSS3                     | ⭐⭐⭐      |
-| JavaScript               | ⭐⭐⭐⭐     |
-| TypeScript               | ⭐⭐⭐⭐     |
-| T-SQL                    | ⭐⭐⭐      |
-
-
-| AI and Machine Learning  | Ratings  |
-|--------------------------|----------|
-| Cloud Vision API         | ⭐⭐⭐      |
-
-
+<table>
+  <tr width="100%">
+    <th width="60%"  >Frameworks</th>
+    <th width="40%">Ratings</th>
+  </tr>
+  <tr width="100%">
+    <td width="60%">Angular v18</td>
+    <td width="40%">⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%">NgRx</td>
+    <td width="40%">⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%">NestJS</td>
+    <td width="40%" valign="top">⭐</td>
+  </tr> 
+  <tr width="100%">
+    <th width="60%" >Library</th>
+    <th width="40%">Ratings</th>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">RxJS</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">Bootstrap</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">Angular Material</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">AG Grid</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">PrimeNG</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐</td>
+  </tr>
+ <tr width="100%">
+    <td width="60%" valign="top">Tailwind CSS</td>
+    <td width="40%" valign="top">⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">SignalR</td>
+    <td width="40%" valign="top">⭐⭐</td>
+  </tr>
+	  <tr width="100%">
+    <td width="60%" valign="top">Leaflet</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐</td>
+  </tr> 
+  <tr width="100%">
+    <td width="60%" valign="top">StoryBook</td>
+    <td width="40%" valign="top">⭐⭐</td>
+  </tr> 
+ <tr width="100%">
+    <th width="60%">Languages</th>
+    <th width="40%">Ratings</th>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">HTML 5</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">CSS3</td>
+    <td width="40%" valign="top">⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">JavaScript</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">TypeScript</td>
+    <td width="40%" valign="top">⭐⭐⭐⭐</td>
+  </tr>
+  <tr width="100%">
+    <td width="60%" valign="top">T-SQL</td>
+    <td width="40%" valign="top">⭐⭐⭐</td>
+  </tr> 
+  <tr width="100%">
+    <th>AI and Machine Learning</th>
+    <th>Ratings</th>
+  </tr>
+  <tr width="100%">
+    <td width="50%" valign="top">Cloud Vision API</td>
+    <td width="50%" valign="top">⭐⭐⭐</td>
+  </tr>
+</table>
+ 
+ 
  
  
 <!--
