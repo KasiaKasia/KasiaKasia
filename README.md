@@ -89,7 +89,7 @@
   </tr>
 </table>
  
- <img align="right" alt="Coding" width="540" src="./images/logo/tlo.jfif">
+ <img align="right" alt="Coding" width="500" src="./images/logo/tlo.jfif">
  
  
 <br>
