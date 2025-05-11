@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="60%" src="./images/logo/tlo.jfif">
+<img align="right" alt="Coding" width="40%" src="./images/logo/tlo.jfif">
  
  
 | <strong>Frameworks</strong>               | <strong>Ratings</strong>  |
