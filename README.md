@@ -12,7 +12,7 @@
 | Angular Material         | ⭐⭐⭐⭐     |
 | AG Grid                  | ⭐⭐⭐⭐     |
 | PrimeNG                  | ⭐⭐⭐⭐     |
-| Tailwind CSS             | ⭐⭐⭐      |
+| Tailwind CSS             | ⭐⭐⭐⭐     |
 | SignalR                  | ⭐⭐        |
 | Leaflet		   | ⭐⭐⭐⭐   |
 | StoryBook                | ⭐⭐        |
