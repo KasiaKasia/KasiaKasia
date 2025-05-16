@@ -3,7 +3,7 @@
  
 | <strong>Frameworks</strong>               | <strong>Ratings</strong>  |
 | :---         |     :---      |
-| Angular v18              | ⭐⭐⭐⭐⭐    |
+| Angular v19              | ⭐⭐⭐⭐⭐    |
 | NgRx                     | ⭐⭐⭐      |
 | NestJS                   | ⭐        |
 | <strong>Library</strong>                  | <strong>Ratings</strong>  |
