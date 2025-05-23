@@ -26,7 +26,8 @@
 | Cloud Vision API         | ⭐⭐⭐      |
 | <strong>WCAG (Web Content Accessibility Guidelines)</strong>  | <strong>Ratings</strong>  |
 | WCAG 2.5.5               | ⭐⭐⭐⭐     |
-
+| <strong>Micro frontends</strong>  | <strong>Ratings</strong>  |
+| Native Federation        | ⭐⭐⭐      |
 
  
  
