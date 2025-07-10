@@ -25,6 +25,7 @@
 | <strong>AI and Machine Learning</strong>  | <strong>Ratings</strong>  |
 | Cloud Vision API         | ⭐⭐⭐      |
 | Genkit | ⭐⭐     |
+| TensorFlow.js | ⭐⭐     |
 | <strong>WCAG (Web Content Accessibility Guidelines)</strong>  | <strong>Ratings</strong>  |
 | WCAG 2.5.5               | ⭐⭐⭐⭐     |
 | <strong>Micro frontends</strong>  | <strong>Ratings</strong>  |
